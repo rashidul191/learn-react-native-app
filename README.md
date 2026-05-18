@@ -14,6 +14,4 @@
    npx expo start
    ```
 
-
-
 Copyright [Rashidul](https://github.com/rashidul191)
